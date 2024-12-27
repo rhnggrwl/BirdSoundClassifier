@@ -12,7 +12,7 @@ This project is a machine learning pipeline for classifying bird sounds recorded
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rnhggrwl/BirdSoundClassifier.git
+   git clone https://github.com/rhnggrwl/BirdSoundClassifier.git
    ```
 2. Install the required Python libraries:
    ```bash
